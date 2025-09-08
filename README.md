@@ -68,10 +68,9 @@ All personal information is stored in `config.json`. Update the fields:
 
 ```json
 {
-  "his_name": "Michael",
-  "your_name": "Sharon",
-  "birthday": "2025-09-09",
-  "secret_code": "ILOVEYOU3000",
+  "his_name": "RecipientName",
+  "your_name": "SenderName",
+  "birthday": "YYYY-MM-DD",
   "dev_mode": false
 }
 ```
@@ -79,7 +78,6 @@ All personal information is stored in `config.json`. Update the fields:
 - **his_name:** Recipient’s name
 - **your_name:** Sender’s name
 - **birthday:** Recipient’s birthday (YYYY-MM-DD)
-- **secret_code:** Optional secret code for hidden messages
 - **dev_mode:** `true` to unlock birthday features regardless of date
 
 ---
