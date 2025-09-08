@@ -1,7 +1,6 @@
 {
-  "his_name": "Michael",
-  "your_name": "Sharon",
-  "birthday": "2025-09-09",
-  "secret_code": "ILOVEYOU3000",
+  "his_name": "RecipientName",
+  "your_name": "SenderName",
+  "birthday": "YYYY-MM-DD",
   "dev_mode": false
 }
